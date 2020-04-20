@@ -1,6 +1,5 @@
-jPaillier
+SecGenCloud
 =========
-[![Build Status](https://travis-ci.org/kunerd/jpaillier.png?branch=master)](https://travis-ci.org/kunerd/jpaillier)
 
 A Java implementation of the Paillier cryptosystem.
 
